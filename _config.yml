@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "indextrown2"
 description              : "데이터로 보다 안전한 세상을 만들고 싶습니다."
-url                      : https://indextrown.github.io/gitBlog
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : https://indextrown.github.io
+baseurl                  : "/gitBlog"
 repository               : "indextrown/gitBlog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/logos/background.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logos/logo.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
